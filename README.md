@@ -1,7 +1,7 @@
 # Td_Tableau
 2018 finance report for Td Bank created using Tableau.
 
-Extracted data from different sources, performed cleaning and transformed data into required format in excel. Developed a Dashboard that well communicate the Key Performance Indicators.
+Extracted data from different sources, performed cleaning and transformed data into required format in excel. Developed a Dashboard in Tableau that well communicate the Key Performance Indicators.
 
 ![1 (1)](https://user-images.githubusercontent.com/60280080/75601937-5409b680-5a8e-11ea-87b6-b9e1ab6b318b.png)
 
